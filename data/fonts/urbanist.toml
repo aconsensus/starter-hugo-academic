@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Urbanist"
+
+# Optional Google font URL
+google_fonts = "Urbanist:400,700|Montserrat|Roboto+Mono"
+
+# Font families
+heading_font = "Urbanist"
+body_font = "Montserrat"
+nav_font = "Montserrat"
+mono_font = "Roboto Mono"
