@@ -7,5 +7,5 @@ google_fonts = "Urbanist:400,700|Montserrat|Roboto+Mono"
 # Font families
 heading_font = "Urbanist"
 body_font = "Montserrat"
-nav_font = "Nanum Gothic"
+nav_font = "Urbanist"
 mono_font = "Roboto Mono"
