@@ -23,7 +23,8 @@
 
    
     .smile {
-    object-position: 100% 100%;
+    width: 100vw;
+      object-fit: cover;
        z-index: -1;
    }
 
