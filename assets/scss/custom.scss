@@ -1,7 +1,7 @@
    // paralax
 
 #wrapper {
-    position:absolute;
+    position:fixed;
     height:100%;
     width:100%;
 }
@@ -15,8 +15,8 @@
 
 #a{
    background:#eee;
-    position:fixed;
-    top:0;
+       top:0;
 }
   
 //end parallax
+
