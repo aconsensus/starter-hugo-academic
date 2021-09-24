@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Template"
+title = ""
 subtitle = ""
 
 [design]
@@ -46,8 +46,10 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 Welcome to the Academic Template
+## consensus
 
+En consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**
+{\huge huge font size} Elaboración de propuestas y obtención de financiación en diferentes convocatorias de la UE
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
 
 [Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
