@@ -45,9 +45,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
- <div style="-webkit-column-count: 2; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+ <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 0px ; -moz-column-rule: 0px ; column-rule: 0px ;">
     <div style="display: inline-block;">
-        <!-- first column's content -->
+        (prueba)
     </div>
     <div style="display: inline-block;">
        <p style="font-size:300%">consensus </p>
@@ -56,7 +56,8 @@ subtitle = ""
 Elaboración de propuestas y obtención de financiación en diferentes convocatorias de la UE
     </div>
  </div>
-## <p style="font-size:300%">consensus </p>
+
+<p style="font-size:300%">consensus </p>
 
 En consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**.
 
