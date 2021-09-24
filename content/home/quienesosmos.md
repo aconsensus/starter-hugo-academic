@@ -45,16 +45,16 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-  <table border="0">
- <tr>
-    <td><b style="font-size:300%"></b></td>
-    <td><b style="font-size:300%">consensus</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+ <div style="-webkit-column-count: 2; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <!-- first column's content -->
+    </div>
+    <div style="display: inline-block;">
+        En consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**.
+
+Elaboración de propuestas y obtención de financiación en diferentes convocatorias de la UE
+    </div>
+ </div>
 ## <p style="font-size:300%">consensus </p>
 
 En consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**.
