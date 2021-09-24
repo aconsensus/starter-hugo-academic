@@ -40,15 +40,32 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "custom.scss"
 
  # CSS class.
  css_class = ""
 +++
  
 
-<p style="font-size:300%">consensus </p>
+  <div class="background-static">
+    <div class="image-wrapper">
+      <div class="small">
+        <img class="smile" src="https://linxea.github.io/codingclub/images/face.gif">
+      </div>
+    </div>
+  </div>
 
-En consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**.
+  <div class="scrollable">
+    <div class="title">
+      <h1>Coding Club</h1>
+      <h2>by linxea</h2>
+    </div>
 
-Elaboración de propuestas y obtención de financiación en diferentes convocatorias de la UE
+    <div class="background-static">
+      <div class="image-wrapper">
+        <div class="small">
+          <img class="meh" src="https://linxea.github.io/codingclub/images/face.gif">
+        </div>
+      </div>
+    </div>
+  </div>
