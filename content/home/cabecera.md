@@ -50,22 +50,9 @@ subtitle = ""
   <div class="background-static">
     <div class="image-wrapper">
       <div class="small">
-        <img class="smile" src="https://linxea.github.io/codingclub/images/face.gif">
+        <img class="smile" src="logocons.png">
       </div>
     </div>
   </div>
 
-  <div class="scrollable">
-    <div class="title">
-      <h1>Coding Club</h1>
-      <h2>by linxea</h2>
-    </div>
-
-    <div class="background-static">
-      <div class="image-wrapper">
-        <div class="small">
-          <img class="meh" src="https://linxea.github.io/codingclub/images/face.gif">
-        </div>
-      </div>
-    </div>
-  </div>
+ 
