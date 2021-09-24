@@ -50,7 +50,7 @@ subtitle = ""
   <div class="background-static">
     <div class="image-wrapper">
       <div class="small">
-        <img class="smile" src="master/assets/media/logocons.png">
+        <img class="smile" src="/assets/media/logocons.png">
       </div>
     </div>
   </div>
