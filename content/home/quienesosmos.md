@@ -9,7 +9,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -45,10 +45,23 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+[[item]]
+  title = ""
+  content = ""
+  align = "left"  # Choose `center`, `left`, or `right`.
 
+  overlay_img = "static/img/logocons.png"  
+
+[[item]]
+  title = ""
+  content = ""
+  align = "right"
+  
 ## <p style="font-size:300%">consensus </p>
 
 En consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**.
 
 Elaboración de propuestas y obtención de financiación en diferentes convocatorias de la UE
+
+
 
