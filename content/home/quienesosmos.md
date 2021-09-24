@@ -48,6 +48,7 @@ subtitle = ""
 
 ## consensus
 
-En consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**
+En consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**.
+
 Elaboración de propuestas y obtención de financiación en diferentes convocatorias de la UE
 
