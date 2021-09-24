@@ -2,7 +2,7 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -52,8 +52,4 @@ subtitle = ""
 En consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**.
 
 Elaboración de propuestas y obtención de financiación en diferentes convocatorias de la UE
-
-| foo | bar |
-| --- | --- |
-| baz | bim |
 
