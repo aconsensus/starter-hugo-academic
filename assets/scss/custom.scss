@@ -1,32 +1,22 @@
    // paralax
 
+#wrapper {
+    position:absolute;
+    height:100%;
+    width:100%;
+}
 
-    .background-static {
-      position: relative;
-      display: flex;
-      justify-content: center;
-      vertical-align: middle;
-      align-items: center;
-      height: 290px;
-    }
+.panels {
+    position:relative;
+    height:100%;
+    min-height:100%;
+    width:100%;
+}
 
-    .image-wrapper {
-      position: fixed;
-      top: 0;
-      left: 0;
-      height: 100vh;
-      width: 100vw;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-   
-    .img_par {
-    width: 100vw;
-      object-fit: cover;
-       z-index: -1;
-   }
-
+#a{
+   background:#eee;
+    position:fixed;
+    top:0;
+}
   
 //end parallax
