@@ -48,8 +48,8 @@ subtitle = ""
  
 
   <div class="background-static">
-    <div class="image-wrapper" height:500px>
-           <img class="smile" src="/media/logocons.png">
+    <div class="image-wrapper">
+           <img class="img_par" src="/media/logocons.png">
       </div>
     </div>
   </div>
