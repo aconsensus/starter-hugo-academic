@@ -50,7 +50,8 @@ subtitle = ""
         <!-- first column's content -->
     </div>
     <div style="display: inline-block;">
-        En consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**.
+       <p style="font-size:300%">consensus </p>
+      <p>En consensus te ofrecemos nuestra experiencia en <strong>gestión y coordinación de proyectos europeos</strong>.</p>
 
 Elaboración de propuestas y obtención de financiación en diferentes convocatorias de la UE
     </div>
