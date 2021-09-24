@@ -45,17 +45,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
- <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 0px ; -moz-column-rule: 0px ; column-rule: 0px ;">
-    <div style="display: inline-block;">
-        (prueba)
-    </div>
-    <div style="display: inline-block;">
-       <p style="font-size:300%">consensus </p>
-      <p>En consensus te ofrecemos nuestra experiencia en <strong>gestión y coordinación de proyectos europeos</strong>.</p>
-
-Elaboración de propuestas y obtención de financiación en diferentes convocatorias de la UE
-    </div>
- </div>
+ 
 
 <p style="font-size:300%">consensus </p>
 
