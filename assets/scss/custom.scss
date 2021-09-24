@@ -23,19 +23,10 @@
 
    
     .smile {
-     object-position: 100% 100%;
+   //  object-position: 100% 100%;
    }
 
-    .meh {
-     object-position: 0 0;
-    }
-
-    .scrollable {
-      position: relative;
-      background: white;
-      margin-top: -25vh;
-    }
-
+   
     .small {
       transform: scale(0.4);
     }
