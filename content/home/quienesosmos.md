@@ -45,7 +45,16 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-  
+  <table border="0">
+ <tr>
+    <td><b style="font-size:300%"></b></td>
+    <td><b style="font-size:300%">consensus</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 ## <p style="font-size:300%">consensus </p>
 
 En consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**.
