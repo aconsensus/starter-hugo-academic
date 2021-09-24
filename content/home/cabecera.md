@@ -40,7 +40,7 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "custom.scss"
+ css_style = ""
 
  # CSS class.
  css_class = ""
