@@ -8,12 +8,12 @@
 
 main:
   - name: Nosotros
-  #identifier: "nosotros"
+  identifier: 'nosotros'
   url: '#nosotros'
       weight: 10
  
  - name: Equipo
-  #parent: "nosotros"
+  parent: 'nosotros'
     url: '#skills'
     weight: 15
   - name: Proyectos
