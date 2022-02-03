@@ -8,7 +8,7 @@ superuser: true
 # Role/position/tagline
 role: Presidente
 # Organizations/Affiliations to show in About widget
-organizations: []
+organizations: 
 - name: Stanford University
   url: https://www.stanford.edu/
 
