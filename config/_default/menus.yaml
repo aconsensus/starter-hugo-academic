@@ -7,7 +7,17 @@
 # to the parent item and parent = "a-unique-reference" to the child item, replacing a-unique-reference with a unique reference of your choice.
 
 main:
-
+ # - name: Nosotros
+  #identifier: nosotros
+  #url: '#nosotros'
+   #   weight: 10
+ 
+ #- name: Equipo
+  #parent: nosotros
+  #  url: '#skills'
+   # weight: 15
+    
+    
   - name: Proyectos
     url: '#projects'
     weight: 20
