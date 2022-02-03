@@ -18,6 +18,7 @@ main:
    # weight: 15
      
   - name: Nosotros
+  identifier: 'nosotros'
     url: '#nosotros'
     weight: 10
   
