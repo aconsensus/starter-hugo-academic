@@ -3,10 +3,16 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+# To create a dropdown sub-menu, add identifier = "a-unique-reference" 
+# to the parent item and parent = "a-unique-reference" to the child item, replacing a-unique-reference with a unique reference of your choice.
+
 main:
   - name: Nosotros
+  identifier: "nosotros"
+      weight: 10
+  - name: Equipo
+  parent: "nosotros"
     url: '#nosotros'
-    weight: 10
   - name: Proyectos
     url: '#projects'
     weight: 20
