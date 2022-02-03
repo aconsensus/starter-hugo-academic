@@ -15,9 +15,11 @@ main:
   
   - name: Nosotros
     identifier: 'nosotros'
+  - name: Equipo 
+    parent: 'nosotros'
     url: '#nosotros'
     weight: 10 
-  - name: Equipo
+  - name: Servicios
     parent: 'nosotros'
     url: '#skills'
     weight: 15
