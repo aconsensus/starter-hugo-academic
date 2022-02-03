@@ -1,12 +1,14 @@
 ---
 title: Proyecto Consensus
-summary: 2009
+summary: Promovido por la Xunta de Galicia y cofinanciado por el Programa Europeo de Prevención y Lucha contra la Delincuencia.  
+Creado por José Ignacio Prieto Lois y María González Vázquez, Presidente y Vicepresidenta de la Asociación Consensus. 
+2009.
 tags:
-- Deep Learning
+- Proyectos europeos
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "proyectoconsensus.blogspot.com"
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -27,7 +29,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#   slides: example
 ---
 
 PROYECTO CONSENSUS promovido por la Xunta de Galicia y cofinanciado por el Programa Europeo de Prevención y Lucha contra la Delincuencia.  
