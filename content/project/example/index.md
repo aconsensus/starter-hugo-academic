@@ -1,8 +1,6 @@
 ---
 title: Proyecto Consensus
-summary: Promovido por la Xunta de Galicia y cofinanciado por el Programa Europeo de Prevención y Lucha contra la Delincuencia.  
-Creado por José Ignacio Prieto Lois y María González Vázquez, Presidente y Vicepresidenta de la Asociación Consensus. 
-2009.
+summary: Promovido por la Xunta de Galicia y cofinanciado por el Programa Europeo de Prevención y Lucha contra la Delincuencia. Creado por José Ignacio Prieto Lois y María González Vázquez, Presidente y Vicepresidenta de la Asociación Consensus. 2009.
 tags:- Proyectos europeos
 date: "2016-04-27T00:00:00Z"
 
