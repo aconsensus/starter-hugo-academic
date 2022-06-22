@@ -49,7 +49,19 @@ subtitle = ""
 
 <p style="font-size:300%">consensus </p>
 
-En consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**.
+En Consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**.
+Elaboración de propuestas y obtención de financiación en diferentes convocatorias de la UE.
 
-Elaboración de propuestas y obtención de financiación en diferentes convocatorias de la UE
+<p style="font-size:200%">Qué hacemos</p>
+Especializados en 
+**- Derecho Europeo**
+**- Políticas de la UE**
+**- Experimentación Social,**
+**- Sostenibilidad y Soluciones Basadas en la Naturaleza** **
+
+<p style="font-size:200%">Cómo lo hacemos</p>
+Colaboración con socios internacionales
+Estudios e investigaciones sobre políticas de la UE
+Desarrollamos acciones formativas, organizamos seminarios y conferencias
+Elaboramos publicaciones
 
