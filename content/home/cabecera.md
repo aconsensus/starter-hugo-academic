@@ -32,7 +32,7 @@ subtitle = ""
    image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -51,11 +51,11 @@ Especializados en: <br>
 **- Experimentación Social**<br>
 **- Sostenibilidad y Soluciones Basadas en la Naturaleza**<br>
 
-Cómo lo hacemos<br>
-Colaboración con socios internacionales<br>
-Estudios e investigaciones sobre políticas de la UE<br>
-Desarrollamos acciones formativas, organizamos seminarios y conferencias<br>
-Elaboramos publicaciones
+Cómo lo hacemos:<br>
+- Colaboración con socios internacionales<br>
+- Estudios e investigaciones sobre políticas de la UE<br>
+- Desarrollo acciones formativas, organizamos seminarios y conferencias<br>
+- Elaboración de publicaciones
 
   <div class="background-static">
     <div class="image-wrapper">
