@@ -4,14 +4,13 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = ""
+title = "consensus"
 subtitle = ""
-<p style="font-size:300%">consensus </p>
 
 En Consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**.
 Elaboración de propuestas y obtención de financiación en diferentes convocatorias de la UE.
 
-<p style="font-size:200%">Qué hacemos</p>
+Qué hacemos
 
 Especializados en:
 **- Derecho Europeo
@@ -19,7 +18,7 @@ Especializados en:
 - Experimentación Social
 - Sostenibilidad y Soluciones Basadas en la Naturaleza**
 
-<p style="font-size:200%">Cómo lo hacemos</p>
+Cómo lo hacemos
 Colaboración con socios internacionales
 Estudios e investigaciones sobre políticas de la UE
 Desarrollamos acciones formativas, organizamos seminarios y conferencias
