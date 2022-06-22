@@ -53,11 +53,12 @@ En Consensus te ofrecemos nuestra experiencia en **gestión y coordinación de p
 Elaboración de propuestas y obtención de financiación en diferentes convocatorias de la UE.
 
 <p style="font-size:200%">Qué hacemos</p>
-Especializados en 
-**- Derecho Europeo**
-**- Políticas de la UE**
-**- Experimentación Social,**
-**- Sostenibilidad y Soluciones Basadas en la Naturaleza** **
+
+Especializados en:
+**- Derecho Europeo
+- Políticas de la UE
+- Experimentación Social
+- Sostenibilidad y Soluciones Basadas en la Naturaleza**
 
 <p style="font-size:200%">Cómo lo hacemos</p>
 Colaboración con socios internacionales
