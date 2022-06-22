@@ -7,24 +7,6 @@ weight = 10  # Order that this section will appear.
 title = "consensus"
 subtitle = ""
 
-En Consensus te ofrecemos nuestra experiencia en gestión y coordinación de proyectos europeos.
-Elaboración de propuestas y obtención de financiación en diferentes convocatorias de la UE.
-
-Qué hacemos
-
-Especializados en:
-- Derecho Europeo
-- Políticas de la UE
-- Experimentación Social
-- Sostenibilidad y Soluciones Basadas en la Naturaleza**
-
-Cómo lo hacemos
-Colaboración con socios internacionales
-Estudios e investigaciones sobre políticas de la UE
-Desarrollamos acciones formativas, organizamos seminarios y conferencias
-Elaboramos publicaciones
-
-
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
