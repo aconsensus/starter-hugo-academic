@@ -7,13 +7,13 @@ weight = 10  # Order that this section will appear.
 title = "consensus"
 subtitle = ""
 
-En Consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**.
+En Consensus te ofrecemos nuestra experiencia en gestión y coordinación de proyectos europeos.
 Elaboración de propuestas y obtención de financiación en diferentes convocatorias de la UE.
 
 Qué hacemos
 
 Especializados en:
-**- Derecho Europeo
+- Derecho Europeo
 - Políticas de la UE
 - Experimentación Social
 - Sostenibilidad y Soluciones Basadas en la Naturaleza**
