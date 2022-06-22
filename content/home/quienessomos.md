@@ -51,13 +51,13 @@ Elaboración de propuestas y obtención de financiación en diferentes convocato
 Qué hacemos
 
 Especializados en:
-**- Derecho Europeo
-**- Políticas de la UE
-**- Experimentación Social
-**- Sostenibilidad y Soluciones Basadas en la Naturaleza
+**- Derecho Europeo <br>
+**- Políticas de la UE <br>
+**- Experimentación Social <br>
+**- Sostenibilidad y Soluciones Basadas en la Naturaleza <br>
 
-Cómo lo hacemos
-Colaboración con socios internacionales
-Estudios e investigaciones sobre políticas de la UE
-Desarrollamos acciones formativas, organizamos seminarios y conferencias
+Cómo lo hacemos <br>
+Colaboración con socios internacionales <br>
+Estudios e investigaciones sobre políticas de la UE <br>
+Desarrollamos acciones formativas, organizamos seminarios y conferencias <br>
 Elaboramos publicaciones
