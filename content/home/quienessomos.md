@@ -45,6 +45,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-En Consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**.
+En Consensus te ofrecemos nuestra experiencia en **gestión y coordinación de proyectos europeos**.<br>
 Elaboramos propuestas, obtenemos financiación en diferentes convocatorias de la UE y realizamos una gestión integral de los proyectos a lo largo de su ciclo de vida.
 
